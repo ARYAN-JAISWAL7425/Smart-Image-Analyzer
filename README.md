@@ -168,9 +168,10 @@ If an invalid or unreadable image is uploaded, the application displays an appro
 - Batch image processing
 - Downloadable analysis reports
 
-##  Project Information
+## Project Information
 
 **Project:** Smart Image Analyzer  
+**Developer:** Jaiswal Aryan Santosh  
 **Domain:** Computer Vision  
 **Language:** Python  
 **Framework:** Streamlit  
@@ -179,4 +180,4 @@ If an invalid or unreadable image is uploaded, the application displays an appro
 
 ## GitHub Repository
 
-[Smart Image Analyzer](https://github.com/Shubham270206/Smart-Image-Analyzer)
+[Smart Image Analyzer](https://github.com/ARYAN-JAISWAL7425/Smart-Image-Analyzer)
